@@ -1,17 +1,15 @@
 ---
 layout:     post
-title:      Apollo
-subtitle:   Apollo
-date:       2022-12-18
+title:      Apollo Record
+subtitle:   apollo
+date:       2022-12-17
 author:     Kinwah Mu
 header-img: img/post-bg-article.jpg
 catalog: true
 tags:
     - Apollo
     - 路径规划
-    - 跟踪控制
+    - 运行控制
 ---
 
-### 简介
-
-### 记录
+### 记录Apollo相关内容
