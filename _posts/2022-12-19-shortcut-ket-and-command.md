@@ -2,7 +2,7 @@
 layout:     post
 title:      Shortcut Key and Command
 subtitle:   Shortcut key
-date:       2022-12-20
+date:       2022-12-19
 author:     Kinwah Mu
 header-img: img/post-bg-article.jpg
 catalog: true
